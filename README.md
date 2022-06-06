@@ -13,7 +13,7 @@ You can test it from this >>>>> [LINK](https://emir-bank-frontend.herokuapp.com/
 - A customer can only have one credit card.
 - A customer can have an unlimited number of savings or drawing accounts.
 - A customer can make payments to the corporate accounts in the system by entering the card information.
-- Our customers who want to create a corporate account should contact our bank. Companies that work with us (ADIDAS, KOTON, NIKE)
+- Our customers who want to create a corporate account should contact our bank. Companies that work with us (KOTON)
 - Money cannot be transferred to savings account. Only money can be deposited. If you want to withdraw your money from your savings account, you have to go to our branches. (We have branches in BURSA, ANKARA, IZMIR )
 - Money transfer can be made between drawing accounts.
 - You can deposit money in your savings account. Once the maturity period has expired, your money will be credited to your account at 9 a.m. the next business day.
